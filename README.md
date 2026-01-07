@@ -28,7 +28,7 @@ Currently building hands-on projects using Azure Cloud and GitHub Actions.
 ## 📂 Pinned Projects
 (I’m building this portfolio to show my work in DevOps & Cloud)
 
-### 🔹 GH-Master
+### 🔹 gh-master
 Beginner fundamentals for Git & GitHub workflows.
 
 ### 🔹 github-action
@@ -39,5 +39,7 @@ CI/CD demo using GitHub Actions and GitHub Pages.
 ---
 
 ## 📫 Let’s Connect
-🔗 LinkedIn: https://www.linkedin.com/in/saumitra-rajput-18268120a/
+🔗 [LinkedIn:](https://www.linkedin.com/in/saumitra-rajput-18268120a/)
+
+
 📬 Open to mentorship, guidance, internships, and junior roles!
