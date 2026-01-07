@@ -1,16 +1,43 @@
-## Hi there 👋
+#  Hello, I’m Saumitra Rajput
+**Aspiring Azure Cloud & DevOps Engineer**
 
-<!--
-**saumitra-rajput/saumitra-rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**4x Microsoft Certified**  **2x GitHub Certified**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about cloud technologies, automation, and DevOps workflows.  
+Currently building hands-on projects using Azure Cloud and GitHub Actions.
+
+---
+
+## 🔧 Skills & Tools
+ Azure Cloud •  GitHub Actions • CI/CD • Linux • Bash • Automation • DevOps
+
+---
+
+## 🎓 Certifications (Verified)
+
+- **Microsoft Azure Fundamentals (AZ-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
+- **Microsoft Security, Compliance & Identity Fundamentals (SC-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
+- **Microsoft Azure Security Engineer Associate (AZ-500)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
+- **Microsoft Azure AI Fundamentals (AI-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
+- **GitHub Certified: GitHub Foundations (GH-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
+- **GitHub Certified: GitHub Actions (GH-200)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
+
+---
+
+## 📂 Pinned Projects
+(I’m building this portfolio to show my work in DevOps & Cloud)
+
+### 🔹 GH-Master
+Beginner fundamentals for Git & GitHub workflows.
+
+### 🔹 github-action
+CI/CD demo using GitHub Actions and GitHub Pages.
+
+[github-action](https://github.com/saumitra-rajput/github-action)
+
+---
+
+## 📫 Let’s Connect
+🔗 LinkedIn: https://www.linkedin.com/in/saumitra-rajput-18268120a/
+📬 Open to mentorship, guidance, internships, and junior roles!
