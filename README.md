@@ -1,8 +1,7 @@
 #  Hello, I’m Saumitra Rajput
 **Aspiring Azure Cloud & DevOps Engineer**
 
-**5x Microsoft Certified**  **2x GitHub Certified**
-
+**5x Microsoft Certified**  
 
 I’m passionate about cloud technologies, automation, and DevOps workflows.  
 Currently building hands-on projects using Azure Cloud and GitHub Actions.
@@ -21,9 +20,6 @@ Currently building hands-on projects using Azure Cloud and GitHub Actions.
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
 - **Microsoft Certified: Security, Compliance & Identity Fundamentals (SC-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
 - **Microsoft Certified: Azure AI Fundamentals (AI-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
-- **GitHub Certified: GitHub Foundations (GH-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
-- **GitHub Certified: GitHub Actions (GH-200)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
-
 ---
 
 ## 📂 Pinned Projects
