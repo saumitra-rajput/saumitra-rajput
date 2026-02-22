@@ -1,5 +1,6 @@
 #  Hello, I’m Saumitra Rajput
 
+🌐 Web: [Click Me](https://saumitra-rajput.github.io/portfolio/)
 
 🚀 Azure Cloud Engineer | DevOps Engineer in Progress  
 ☁️ 5× Microsoft Certified | 2× GitHub Certified  
@@ -13,12 +14,6 @@ Certified 5× by Microsoft and 2× by GitHub, currently expanding into DevOps, a
 
 I’m passionate about cloud technologies, automation, and DevOps workflows.  
 Currently building hands-on projects using Azure Cloud and GitHub Actions.
-
-## 🌐 Socials  
-- Portfolio: 
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📧 Email: your-email@example.com  
-- 🐙 GitHub: https://github.com/saumitra-rajput  
 
 ---
 
@@ -35,11 +30,45 @@ Azure Cloud Engineer with hands-on production experience managing enterprise-sca
 
 Currently expanding into DevOps engineering with focus on automation, CI/CD, containers, Kubernetes, and Infrastructure as Code.
 
-
 ---
 
-## 🔧 Skills & Tools
- Azure Cloud •  GitHub Actions • CI/CD • Linux • Bash • Automation • DevOps
+## 💻 Tech Stack  
+
+### ☁️ Cloud
+- Microsoft Azure (Primary – Production Experience)  
+- AWS (Architecting & DevOps Learning Path)  
+
+### 🔐 Identity & Security
+- Azure AD / Entra ID  
+- RBAC | PIM | IAM  
+- Defender for Cloud  
+- Azure Policy  
+
+### ⚙️ DevOps & CI/CD
+- Git  
+- GitHub  
+- GitHub Actions  
+- Azure DevOps  
+- YAML Pipelines  
+
+### 🐳 Containers & Orchestration
+- Docker  
+- Kubernetes (Minikube → EKS → AKS Learning Path)
+
+### 🧱 Infrastructure as Code
+- Terraform (Active Learning)  
+- Ansible (Upcoming Focus)
+
+### 📊 Monitoring & Observability
+- Prometheus  
+- Grafana  
+- OpenTelemetry  
+
+### 🐧 OS & Scripting
+- Linux (Ubuntu)  
+- Bash / Shell  
+- Azure CLI  
+- Python (Basic)
 
 ---
 
@@ -50,23 +79,23 @@ Currently expanding into DevOps engineering with focus on automation, CI/CD, con
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
 - **Microsoft Certified: Security, Compliance & Identity Fundamentals (SC-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
 - **Microsoft Certified: Azure AI Fundamentals (AI-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
+- **GitHub Foundations** - [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials/certification/github-foundations)
+- **GitHub Actions** - [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials/certification/github-actions)
 ---
+## 📊 GitHub Stats (Optional)
 
-## 📂 Pinned Projects
-(I’m building this portfolio to show my work in DevOps & Cloud)
+You may add this below if you want:
 
-### 🔹 gh-master
-Beginner fundamentals for Git & GitHub workflows.
-
-### 🔹 github-action
-CI/CD demo using GitHub Actions and GitHub Pages.
-
-[github-action](https://github.com/saumitra-rajput/github-action)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saumitra-rajput&show_icons=true)
 
 ---
 
 ## 📫 Let’s Connect
-🔗 [LinkedIn:](https://www.linkedin.com/in/saumitra-rajput-18268120a/)
 
+### 🌐 Socials  
+- :shipit: Portfolio: https://saumitra-rajput.github.io/portfolio/
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 📧 Email: saumitrarajput3jan@gmail.com 
+- 🐙 GitHub: https://github.com/saumitra-rajput  
 
 📬 Open to mentorship, guidance, internships, and junior roles!
