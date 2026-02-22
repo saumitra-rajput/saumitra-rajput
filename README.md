@@ -1,4 +1,10 @@
 #  Hello, I’m Saumitra Rajput
+---
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,docker,aws,kubernetes,jenkins,terraform,linux,git,githubactions,prometheus,grafana,mysql,mongodb,python,bash" />
+</p>
+
 
 🌐 Web: [Click Me](https://saumitra-rajput.github.io/portfolio/) :shipit: 
 
@@ -40,12 +46,6 @@ Currently expanding into DevOps engineering with focus on automation, CI/CD, con
 - **Microsoft Certified: Azure AI Fundamentals (AI-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
 - **GitHub Foundations** - [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials/certification/github-foundations)
 - **GitHub Actions** - [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials/certification/github-actions)
-
----
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,docker,aws,kubernetes,jenkins,terraform,linux,git,githubactions,prometheus,grafana,mysql,mongodb,python,bash" />
-</p>
 
 ---
 
