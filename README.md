@@ -1,6 +1,6 @@
 #  Hello, I’m Saumitra Rajput
 
-🌐 Web: [Click Me](https://saumitra-rajput.github.io/portfolio/)
+🌐 Web: [Click Me](https://saumitra-rajput.github.io/portfolio/) :shipit: 
 
 🚀 Azure Cloud Engineer | DevOps Engineer in Progress  
 ☁️ 5× Microsoft Certified | 2× GitHub Certified  
@@ -29,47 +29,6 @@ Azure Cloud Engineer with hands-on production experience managing enterprise-sca
 - ServiceNow Incident & Problem Management  
 
 Currently expanding into DevOps engineering with focus on automation, CI/CD, containers, Kubernetes, and Infrastructure as Code.
-
----
-
-## 💻 Tech Stack  
-
-### ☁️ Cloud
-- Microsoft Azure (Primary – Production Experience)  
-- AWS (Architecting & DevOps Learning Path)  
-
-### 🔐 Identity & Security
-- Azure AD / Entra ID  
-- RBAC | PIM | IAM  
-- Defender for Cloud  
-- Azure Policy  
-
-### ⚙️ DevOps & CI/CD
-- Git  
-- GitHub  
-- GitHub Actions  
-- Azure DevOps  
-- YAML Pipelines  
-
-### 🐳 Containers & Orchestration
-- Docker  
-- Kubernetes (Minikube → EKS → AKS Learning Path)
-
-### 🧱 Infrastructure as Code
-- Terraform (Active Learning)  
-- Ansible (Upcoming Focus)
-
-### 📊 Monitoring & Observability
-- Prometheus  
-- Grafana  
-- OpenTelemetry  
-
-### 🐧 OS & Scripting
-- Linux (Ubuntu)  
-- Bash / Shell  
-- Azure CLI  
-- Python (Basic)
-
 ---
 
 ## 🎓 Certifications (Verified)
@@ -81,12 +40,20 @@ Currently expanding into DevOps engineering with focus on automation, CI/CD, con
 - **Microsoft Certified: Azure AI Fundamentals (AI-900)** — [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials?tab=credentials-tab)
 - **GitHub Foundations** - [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials/certification/github-foundations)
 - **GitHub Actions** - [View Credential](https://learn.microsoft.com/en-us/users/saumitrarajput-5854/credentials/certification/github-actions)
+
 ---
-## 📊 GitHub Stats (Optional)
 
-You may add this below if you want:
+## 💻 Tech Stack  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saumitra-rajput&show_icons=true)
+| Category | Tools & Technologies |
+|-----------|---------------------|
+| ☁️ Cloud | Microsoft Azure (Production), AWS (Learning Path) |
+| 🔐 Identity & Security | Azure AD / Entra ID, RBAC, PIM, IAM, Defender for Cloud, Azure Policy |
+| ⚙️ DevOps & CI/CD | Git, GitHub, GitHub Actions, Azure DevOps, YAML Pipelines |
+| 🐳 Containers & Orchestration | Docker, Kubernetes (Minikube → EKS → AKS) |
+| 🧱 Infrastructure as Code | Terraform (Active Learning), Ansible (Upcoming Focus) |
+| 📊 Monitoring & Observability | Prometheus, Grafana, OpenTelemetry |
+| 🐧 OS & Scripting | Linux (Ubuntu), Bash, Azure CLI, Python (Basic) |
 
 ---
 
