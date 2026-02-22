@@ -44,7 +44,7 @@ Currently expanding into DevOps engineering with focus on automation, CI/CD, con
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,git,githubactions,prometheus,grafana,mysql,mongodb,python,bash" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,aws,kubernetes,jenkins,terraform,linux,git,githubactions,prometheus,grafana,mysql,mongodb,python,bash" />
 </p>
 
 ---
