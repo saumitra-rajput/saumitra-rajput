@@ -19,7 +19,7 @@ Azure Cloud Engineer with hands-on production experience managing enterprise-sca
 Certified 5× by Microsoft and 2× by GitHub, currently expanding into DevOps, automation, CI/CD, containerization, and cloud-native engineering.  
 
 I’m passionate about cloud technologies, automation, and DevOps workflows.  
-Currently building hands-on projects using Azure Cloud and GitHub Actions.
+And I am building hands-on projects using Azure Cloud and Devops Tools.
 
 ---
 
