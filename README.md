@@ -68,7 +68,7 @@ Currently expanding into DevOps engineering with focus on automation, CI/CD, con
 
 ### 🌐 Socials  
 - :shipit: Portfolio: https://saumitra-rajput.github.io/portfolio/
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 💼 LinkedIn: https://www.linkedin.com/in/saumitra-rajput-18268120a/  
 - 📧 Email: saumitrarajput3jan@gmail.com 
 - 🐙 GitHub: https://github.com/saumitra-rajput  
 
