@@ -2,7 +2,7 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,docker,aws,kubernetes,terraform,linux,git,githubactions,prometheus,grafana,mysql,mongodb,python,bash" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,aws,kubernetes,terraform,linux,git,githubactions,prometheus,grafana,mysql,python,ansible,github,bash" />
 </p>
 
 
