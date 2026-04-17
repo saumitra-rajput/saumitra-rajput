@@ -6,35 +6,26 @@
 </p>
 
 
-🌐 Web: [Click Me](https://saumitra-rajput.github.io/portfolio/) :shipit: 
+🌐 Web: [Click Me](https://saumitra-rajput.github.io/portfolio/) :shipit: |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumitra-rajput-18268120a/) | 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/saumitra-rajput)
 
-🚀 Azure Cloud Engineer | DevOps Engineer in Progress  
-☁️ 5× Microsoft Certified | 2× GitHub Certified  
-🔐 Azure Infrastructure | IAM | Networking | Security | Automation  
 
----
+📍 Lucknow, India | 📧 **saumitrarajput3jan@gmail.com** | 📞 **+91-8948965441**
 
-Azure Cloud Engineer with hands-on production experience managing enterprise-scale Microsoft Azure environments across networking, identity, security, and infrastructure operations.
-
-Certified 5× by Microsoft and 2× by GitHub, currently expanding into DevOps, automation, CI/CD, containerization, and cloud-native engineering.  
-
-I’m passionate about cloud technologies, automation, and DevOps workflows.  
-And I am building hands-on projects using Azure Cloud and Devops Tools.
+**Cloud Engineer | DevOps Enthusiast**
+☁️ 5× **Microsoft** Certified | 2× **GitHub** Certified  
 
 ---
 
-## 💼 Professional Snapshot  
+## 🚀 About Me
 
-Azure Cloud Engineer with hands-on production experience managing enterprise-scale Microsoft Azure environments including:
+Cloud Engineer with 3 years of experience at HCLTech, transitioning into DevOps. Skilled in Docker, Kubernetes, Azure, AWS, CI/CD, and Infrastructure as Code. 
 
-- Virtual Machines, VNETs, NSGs, Load Balancers  
-- Azure AD (Entra ID), RBAC, PIM  
-- VPN (P2S/S2S), VNET Peering (Global & Regional)  
-- Backup, Disaster Recovery & Cross-Region Replication  
-- Azure CLI Automation  
-- ServiceNow Incident & Problem Management  
 
-Currently expanding into DevOps engineering with focus on automation, CI/CD, containers, Kubernetes, and Infrastructure as Code.
+Certified 5× by Microsoft and 2× by GitHub.
+
+Passionate about automation, cloud-native engineering, and building hands-on DevOps projects.
+
 ---
 
 ## 🎓 Certifications (Verified)
@@ -49,27 +40,39 @@ Currently expanding into DevOps engineering with focus on automation, CI/CD, con
 
 ---
 
-
 ## 💻 Tech Stack  
 
 | Category | Tools & Technologies |
 |-----------|---------------------|
-| ☁️ Cloud | Microsoft Azure (Production), AWS (Learning Path) |
-| 🔐 Identity & Security | Azure AD / Entra ID, RBAC, PIM, IAM, Defender for Cloud, Azure Policy |
-| ⚙️ DevOps & CI/CD | Git, GitHub, GitHub Actions, Azure DevOps, YAML Pipelines |
-| 🐳 Containers & Orchestration | Docker, Kubernetes (Minikube → EKS → AKS) |
-| 🧱 Infrastructure as Code | Terraform (Active Learning), Ansible (Upcoming Focus) |
-| 📊 Monitoring & Observability | Prometheus, Grafana, OpenTelemetry |
-| 🐧 OS & Scripting | Linux (Ubuntu), Bash, Azure CLI, Python (Basic) |
+| ☁️ Cloud | Azure, AWS |
+| 🔐 Identity & Security | Azure AD / Entra ID, AWS, RBAC, PIM, IAM, Defender for Cloud, Azure Policy |
+| 📦 Containers | Docker, Docker Compose, Kubernetes, KIND, Helm, HPA, EKS |
+| ⚙️ CI/CD | Git, GitHub, GitHub Actions, Azure DevOps, YAML Pipelines |
+| 🧱 Infrastructure as Code | Terraform, Ansible |
+| 📊 Monitoring & Observability | Prometheus, Grafana, cAdvisor, Node-Exporter, Datadog |
+| 🐧 Scripting and Networking | Linux (Ubuntu), Bash, Azure CLI, Python, Networking, NSG, ASG, VNets, Peering |
 
 ---
 
-## 📫 Let’s Connect
+## 💼 Experience
 
-### 🌐 Socials  
-- :shipit: Portfolio: https://saumitra-rajput.github.io/portfolio/
-- 💼 LinkedIn: https://www.linkedin.com/in/saumitra-rajput-18268120a/  
-- 📧 Email: saumitrarajput3jan@gmail.com 
-- 🐙 GitHub: https://github.com/saumitra-rajput  
+**Analyst – Cloud Operations** @ HCLTech (2021 – 2024)
+- Supported IAM operations using on-prem AD, OKTA, PingID, and Azure Entra ID 
+- Monitored systems to ensure high availability and performance using Azure Monitor, Datadog
+- Assisted in cloud deployments and configurations
+- Resolved incidents and requests within SLA using ServiceNow
+- Contributed to the knowledge base and built new articles on application troubleshooting 
 
-📬 Open to mentorship, guidance, internships, and junior roles!
+---
+
+## 📫 Let's Connect
+
+**GitHub** → [github.com/saumitra-rajput](https://github.com/saumitra-rajput)  
+**Portfolio** → [saumitra-rajput.github.io/portfolio](https://saumitra-rajput.github.io/portfolio/)  
+**LinkedIn** → [linkedin.com/in/saumitra-rajput](https://www.linkedin.com/in/saumitra-rajput-18268120a/)  
+**Email** → saumitrarajput3jan@gmail.com  
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saumitra-rajput&show_icons=true&theme=dark)
+
+> 📬 Open to mentorship, guidance, internships, and junior DevOps roles!
