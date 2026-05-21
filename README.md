@@ -7,7 +7,7 @@
 
 
 🌐 Web: [Click Me](https://saumitra-rajput.github.io/portfolio/) :shipit: |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumitra-rajput-18268120a/) | 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/saumitra-rajput)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/saumitra-rajput) ![](https://komarev.com/ghpvc/?username=saumitra-rajput&label=Profile+Views&color=blue&style=flat)
 
 
 📍 Lucknow, India | 📧 **saumitrarajput3jan@gmail.com** | 📞 **+91-8948965441**
@@ -65,7 +65,7 @@ Passionate about automation, cloud-native engineering, and building hands-on Dev
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect 
 
 **GitHub** → [github.com/saumitra-rajput](https://github.com/saumitra-rajput)  
 **Portfolio** → [saumitra-rajput.github.io/portfolio](https://saumitra-rajput.github.io/portfolio/)  
